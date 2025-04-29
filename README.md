@@ -1,7 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice)
 <!--
-![header](https://capsule-render.vercel.app/api?type=slice)
 **hya0906/hya0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
