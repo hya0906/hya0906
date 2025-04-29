@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hya0906&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hya0906"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **hya0906/hya0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
