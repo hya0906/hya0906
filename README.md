@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=wave)
 ## Hi there 👋
 <!--
 **hya0906/hya0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
